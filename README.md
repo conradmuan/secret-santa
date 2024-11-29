@@ -7,7 +7,7 @@
     {
         name: "John Snow",
         exclusions: ["Tywin Lannister"]
-    },
+    }
 ]
 ```
 
